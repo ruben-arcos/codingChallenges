@@ -36,6 +36,9 @@ function finalGrade(exam, projects) {
     return 0; 
   }
 
+  console.log(finalGrade(85, 5));
+
+
 //other solutions
 
 //1.

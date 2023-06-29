@@ -1,1 +1,1 @@
-# codewars daily codingChallenges 
+# codewars' daily coding challenges 

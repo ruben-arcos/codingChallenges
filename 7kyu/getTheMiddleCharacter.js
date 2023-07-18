@@ -43,6 +43,10 @@ function getMiddle(s) {
     }
   }
   
+  console.log(getMiddle('hello'))
+  console.log(getMiddle('supernova'))
+  console.log(getMiddle('saturn'))
+  
 //other solutions
 
 //1.

@@ -46,3 +46,4 @@ function shortcut(string) {
 
   return result;
 }
+
